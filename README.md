@@ -11,3 +11,7 @@ Follow the steps below to use the PowerShell script.
 5.  Navigate to the location of the script.
 6.  Run the script using `.\block_unwated_hosts.ps1`.
 7.  Done.
+
+# Features
+1.  Add the list of hosts to be blocked in an array.
+2.  Reformats the rest of the `hosts` file so that it consistently uses tab across all entries.
